@@ -1,3 +1,28 @@
-h1{
-  color:#305330;
+html, body {
+  background: rgba(134, 106, 184);
+  padding:0;
+
+}
+
+nav {
+  width:100vw;
+  height: 40px;
+  background: rgb(101, 164, 241);
+}
+
+nav ul {
+  padding:0;
+  margin:0;
+  height:100%;
+}
+
+nav ul li {
+  display: inline;
+  padding: 10px 15px;
+}
+
+nav ul li a {
+  color:white;
+  text-decoration:none;
+  padding: 10px
 }
